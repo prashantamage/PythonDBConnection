@@ -27,7 +27,7 @@ After successfull connection you will get following output.
 Here User Role is 'SYS DBA' or 'Normal User'.
 At end connection will be terminated/closed to avoid multiple session opened issue.
 
-For any support [prashantamage](https://github.com/prashantamage). 👍
+For any support contact [prashantamage](https://github.com/prashantamage). 👍
 
 Thank You.
 
