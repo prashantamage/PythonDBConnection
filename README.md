@@ -1,5 +1,3 @@
-![pythonDbCheck](https://user-images.githubusercontent.com/13764086/124273722-027bab00-db5e-11eb-8e15-b7bd4e94fabb.PNG)
-![pythonDbCheck](https://user-images.githubusercontent.com/13764086/124273768-0f989a00-db5e-11eb-8a26-4cc933372f17.PNG)
 # PythonDBConnection
 
 ## This is sample file to check DB connection with oracle database.
@@ -24,20 +22,7 @@ This will execute the connection.py file and will try to connect to Database.
 ### Output - 
 After successfull connection you will get following output.
 
-
-Trying to Connect
-Successfully connected to Database as <USER_ROLE>
-___________________________________________
-        *** DB DETAILS ***
-    Username   --> <USER_NAME>
-    Host       --> <HOST_NAME>
-    Port       --> <PORT>
-    Service id --> <SERVICE_ID>
-    DB Version --> <DB_VERSION>
-___________________________________________
-Testing Query
-Query Executed Successfully.
-Connection Closed.
+![pythonDbCheck](https://user-images.githubusercontent.com/13764086/124273722-027bab00-db5e-11eb-8e15-b7bd4e94fabb.PNG)
 
 Here User Role is 'SYS DBA' or 'Normal User'.
 At end connection will be terminated/closed to avoid multiple session opened issue.
