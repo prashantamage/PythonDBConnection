@@ -27,7 +27,7 @@ After successfull connection you will get following output.
 Here User Role is 'SYS DBA' or 'Normal User'.
 At end connection will be terminated/closed to avoid multiple session opened issue.
 
-For any support contact @github/support prashantamage. @octocat :+1
+For any support contact @github/support prashantamage. :EMOJICODE:@octocat :+1
 
 Thank You.
 
