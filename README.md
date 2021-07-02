@@ -14,7 +14,19 @@
     Refer [Oracle instant Client](https://www.oracle.com/in/database/technologies/instant-client.html) for more information.
 
 ### Execution - 
-Get the connection.py from project and run by using following command.
+Get the connection.py from project  and modify as per your requirement.
+Replace your database details.
+![details](https://user-images.githubusercontent.com/13764086/124274856-65217680-db5f-11eb-8a81-1e546deb0fb2.PNG)
+
+### Details 
+userName = '<USER_NAME>'   -- Database user name to login
+password = '<PASSWORD>'    -- Password for the user
+hostName = '<HOST>'        -- Hoste name where Database is installed.
+port = '<PORT>'            -- Port to connect with the database.
+serviceId = '<SERVICE_ID>' -- Service ID for the database
+userRole = 'SYSDBA' or ''  -- This is user role , Replce 'SYSDBA' or keep it blank ''. 
+
+After doing required changes run connection.py by using following command.
 
 `$python connection.py`
 
