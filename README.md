@@ -1,22 +1,24 @@
 # PythonDBConnection
 
-# This is sample file to check DB connection with oracle database.
+## This is sample file to check DB connection with oracle database.
 
-Prerequisite -
-        . cx_Oracle python module is required to check the connections with DB.
+### Prerequisite -
+        - cx_Oracle python module is required to check the connections with DB.
             use "pip install cx-Oracle" to install cx_Oracle on your machine.
-            Refer https://pypi.org/project/cx-Oracle/ for more information about cx_Oracle module.
+            Refer [cx_Oracle](https://pypi.org/project/cx-Oracle/) for more information about cx_Oracle module.
         
-        . Oracle instant Client - This is require to connection with DB.
+        - Oracle instant Client - This is require to connection with DB.
             Download Oracle Instant Client from following link. Choos appropriate version depending on you OS.
-            Refer https://www.oracle.com/in/database/technologies/instant-client.html for more information.
+            Refer [Oracle instant Client](https://www.oracle.com/in/database/technologies/instant-client.html) for more information.
 
-Execution - 
+### Execution - 
         Get the connection.py from project and run by using following command.
-        $python connection.py
+        
+        `$python connection.py`
+        
         This will execute the connection.py file and will try to connect to Database.
 
-Output - 
+### Output - 
         After successfull connection you will get following output.
 
 
@@ -37,6 +39,7 @@ Output -
         Here User Role is 'SYS DBA' or 'Normal User'.
         At end connection will be terminated/closed to avoid multiple session opened issue.
 
+For any support contact @github/support prashantamage. @octocat :+1
 
 Thank You.
 
