@@ -9,7 +9,8 @@
     Refer [cx_Oracle](https://pypi.org/project/cx-Oracle/) for more information about cx_Oracle module.
 
 * Oracle instant Client - This is require to connect with Oracle DB.
-    Download Oracle Instant Client from following link. Choos appropriate version depending on you OS.
+    Download Oracle Instant Client from following link. 
+    Choose appropriate version depending on you OS.
     Refer [Oracle instant Client](https://www.oracle.com/in/database/technologies/instant-client.html) for more information.
 
 ### Execution - 
