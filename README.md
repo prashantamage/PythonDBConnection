@@ -1,3 +1,5 @@
+![pythonDbCheck](https://user-images.githubusercontent.com/13764086/124273722-027bab00-db5e-11eb-8e15-b7bd4e94fabb.PNG)
+![pythonDbCheck](https://user-images.githubusercontent.com/13764086/124273768-0f989a00-db5e-11eb-8a26-4cc933372f17.PNG)
 # PythonDBConnection
 
 ## This is sample file to check DB connection with oracle database.
