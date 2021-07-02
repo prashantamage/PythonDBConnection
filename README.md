@@ -3,11 +3,11 @@
 ## This is sample file to check DB connection with oracle database.
 
 ### Prerequisite -
-        - cx_Oracle python module is required to check the connections with DB.
+        cx_Oracle - This python module is required to check the connections with DB.
             use "pip install cx-Oracle" to install cx_Oracle on your machine.
             Refer [cx_Oracle](https://pypi.org/project/cx-Oracle/) for more information about cx_Oracle module.
         
-        - Oracle instant Client - This is require to connection with DB.
+        Oracle instant Client - This is require to connect with Oracle DB.
             Download Oracle Instant Client from following link. Choos appropriate version depending on you OS.
             Refer [Oracle instant Client](https://www.oracle.com/in/database/technologies/instant-client.html) for more information.
 
