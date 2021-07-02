@@ -20,10 +20,15 @@ Replace your database details.
 
 ### Details 
 userName = '<USER_NAME>'   -- Database user name to login
+
 password = '<PASSWORD>'    -- Password for the user
+    
 hostName = '<HOST>'        -- Hoste name where Database is installed.
+    
 port = '<PORT>'            -- Port to connect with the database.
+    
 serviceId = '<SERVICE_ID>' -- Service ID for the database
+    
 userRole = 'SYSDBA' or ''  -- This is user role , Replce 'SYSDBA' or keep it blank ''. 
 
 After doing required changes run connection.py by using following command.
